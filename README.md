@@ -310,4 +310,5 @@ Salvat automat la confirmare. Se află în același dosar cu scriptul sau fișie
 
 ---
 
-*Proudly made by Popov Dmitrii*
+*Proudly made by Popov Dmitrii, UTM, FCIM, CR-253,*
+*dmitrii.popov@iis.utm.md*
