@@ -29,17 +29,6 @@
 
 ---
 
-## Требования (для запуска из исходного кода)
-
-Python 3.8+ и одна внешняя библиотека:
-
-```bash
-pip install certifi
-```
-
-Всё остальное входит в стандартную библиотеку Python — ничего дополнительно устанавливать не нужно.
-
----
 
 ## Формат входного файла
 
@@ -53,7 +42,17 @@ someuser
 ```
 
 ---
+## Требования (для запуска из исходного кода)
 
+Python 3.8+ и одна внешняя библиотека:
+
+```bash
+pip install certifi
+```
+
+Всё остальное входит в стандартную библиотеку Python — ничего дополнительно устанавливать не нужно.
+
+---
 ## CLI версия — `add_collaborators.py`
 
 <details>
@@ -189,18 +188,6 @@ După descărcare, plasați `add_collaborators_gui.exe` într-un dosar convenabi
 
 ---
 
-## Cerințe (pentru rularea din codul sursă)
-
-Python 3.8+ și o singură bibliotecă externă:
-
-```bash
-pip install certifi
-```
-
-Tot restul face parte din biblioteca standard Python — nu este necesar să instalați nimic suplimentar.
-
----
-
 ## Formatul fișierului de intrare
 
 Un fișier `.txt` simplu, cu un username GitHub pe fiecare linie:
@@ -213,7 +200,17 @@ someuser
 ```
 
 ---
+## Cerințe (pentru rularea din codul sursă)
 
+Python 3.8+ și o singură bibliotecă externă:
+
+```bash
+pip install certifi
+```
+
+Tot restul face parte din biblioteca standard Python — nu este necesar să instalați nimic suplimentar.
+
+---
 ## Versiunea CLI — `add_collaborators.py`
 
 <details>
