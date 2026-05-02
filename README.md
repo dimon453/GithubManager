@@ -159,7 +159,7 @@ python add_collaborators_gui.py
 
 # GitHub Collaborator Adder {#github-collaborator-adder-ro}
 
-> 🇷🇺 [Версия на русском языке](#github-collaborator-adder)
+>  [Версия на русском языке](#github-collaborator-adder)
 
 Un instrument pentru adăugarea în masă a utilizatorilor GitHub într-un depozit ca colaboratori. Disponibil în două versiuni: script în linie de comandă și interfață grafică.
 
