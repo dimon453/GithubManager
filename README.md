@@ -1,5 +1,5 @@
 # GitHub Collaborator Adder
-![GitHub Collaborator Adder](icon_512x512.png)
+![GitHub Collaborator Adder](icon_256x256.png)
 > 🇷🇴 [Versiunea în limba română](#github-collaborator-adder-ro)
 
 Инструмент для массового добавления пользователей GitHub в репозиторий в роли collaborator. Доступен в двух версиях: консольный скрипт и графический интерфейс.
